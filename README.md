@@ -1,6 +1,6 @@
 # <div class Align = "center">Database Experience - Bootcamp</div>
 
-<div class Align = "center"> <img src="database-experience.png" alt="database-experience" width="200"/></div>
+<div class Align = "center"> <img src="database-experience.png" alt="database-experience" width="200"/></div><br>
 
 <div class Align = "justify"> Este é o primeiro bootcamp sobre Banco de Dados da DIO para profissionais que procuram uma experiência rápida em Ciência de Dados para se aprimorar nos principais conceitos de banco de dados SQL e NoSQL. No Database Experience você vai passar por 54 horas de imersão, com experiências educacionais e mentorias exclusivas sobre modelagem de dados, SGBD, EER, arquitetura, queries entre outras. <br>   
 
